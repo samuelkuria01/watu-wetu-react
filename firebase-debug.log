@@ -1,0 +1,21 @@
+[debug] [2023-01-18T06:54:01.895Z] ----------------------------------------------------------------------
+[debug] [2023-01-18T06:54:01.898Z] Command:       /home/user/.nvm/versions/node/v16.4.0/bin/node /home/user/.nvm/versions/node/v16.4.0/bin/firebase init
+[debug] [2023-01-18T06:54:01.898Z] CLI Version:   11.20.0
+[debug] [2023-01-18T06:54:01.898Z] Platform:      linux
+[debug] [2023-01-18T06:54:01.898Z] Node Version:  v16.4.0
+[debug] [2023-01-18T06:54:01.899Z] Time:          Wed Jan 18 2023 09:54:01 GMT+0300 (East Africa Time)
+[debug] [2023-01-18T06:54:01.899Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-18T06:54:01.906Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-18T06:54:01.906Z] > authorizing via signed-in user (samuel.kuria01@student.moringaschool.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/user/watu-wetu-react
+
